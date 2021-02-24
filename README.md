@@ -13,6 +13,3 @@
  - HFRADAR Maps API: http://cordc.ucsd.edu/projects/mapping/api/
  - UIKit CSS Component Library
  - http-server to host server for site testing
- 
-created by Heather Dinh
-
